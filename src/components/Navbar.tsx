@@ -38,7 +38,7 @@ export const Navbar: React.FC<NavbarProps> = ({ onOpenChat }) => {
   const navLinks = [
     { label: 'Beranda', href: '#home', id: 'home' },
     { label: 'Tentang', href: '#about', id: 'about' },
-    { label: 'Proyek', href: '#projects', id: 'projects' },
+    { label: 'Karya & Belajar', href: '#projects', id: 'projects' },
     { label: 'Layanan', href: '#services', id: 'services' },
     { label: 'Keahlian', href: '#skills', id: 'skills' },
     { label: 'Kontak', href: '#contact', id: 'contact' },

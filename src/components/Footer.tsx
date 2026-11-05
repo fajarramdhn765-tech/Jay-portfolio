@@ -12,7 +12,7 @@ export const Footer: React.FC = () => {
   const navLinks = [
     { label: 'Beranda', href: '#home' },
     { label: 'Tentang', href: '#about' },
-    { label: 'Proyek', href: '#projects' },
+    { label: 'Karya & Belajar', href: '#projects' },
     { label: 'Layanan', href: '#services' },
     { label: 'Keahlian', href: '#skills' },
     { label: 'Kontak', href: '#contact' },

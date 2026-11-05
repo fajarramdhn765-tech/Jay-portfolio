@@ -3,7 +3,7 @@ import { Navbar } from './components/Navbar';
 import { Hero } from './components/Hero';
 import { TechStack } from './components/TechStack';
 import { About } from './components/About';
-import { Projects } from './components/Projects';
+import { LearningJourney } from './components/LearningJourney';
 import { Services } from './components/Services';
 import { Skills } from './components/Skills';
 import { Contact } from './components/Contact';
@@ -32,8 +32,8 @@ export default function App() {
         {/* About Me / Behind the Code */}
         <About />
 
-        {/* Selected Works Project Showcase */}
-        <Projects />
+        {/* My Learning Journey & Creative Works */}
+        <LearningJourney />
 
         {/* Services / What I Can Do */}
         <Services />
